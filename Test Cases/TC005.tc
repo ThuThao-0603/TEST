@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Không nhập gì cả</description>
+   <name>TC005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abae25c8-710b-45b3-927b-01bca5c7f428</testCaseGuid>
+</TestCaseEntity>

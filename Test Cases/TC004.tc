@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nhập pass sai</description>
+   <name>TC004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c692f8a4-0d66-4be8-b200-924de9176b83</testCaseGuid>
+</TestCaseEntity>
