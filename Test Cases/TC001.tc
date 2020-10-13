@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>7ac4d94c-4be8-4c6f-a6d3-70f887ef0e0f</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe\r\n'</defaultValue>
+      <description></description>
+      <id>a7e865fe-9f5f-4526-ac09-995b1f7192f0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotApassword'</defaultValue>
+      <description></description>
+      <id>44b56783-cf0f-4ada-bdea-a458ad734ac2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>
